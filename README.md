@@ -10,21 +10,18 @@
 
 ## 👨‍💻 Competitive Coding Profiles
 <div align = "center">
-  <a href = "https://codeforces.com/profile/rishi2674"><img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=256" width = "50"></a>
-  <a href = "https://leetcode.com/Rishi2674/"><img src = "https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width = "50"></a>
-  <a href = "https://www.codechef.com/users/rishi2674"><img src = "https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" width = "60"></a>
+  <a href = "https://codeforces.com/profile/rishika_g31"><img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3628695-3029920.png?f=webp&w=256" width = "50"></a>
+  <a href = "https://leetcode.com/u/rishika-g31/"><img src = "https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width = "50"></a>
+  <a href = "https://www.codechef.com/users/rishika_g31"><img src = "https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" width = "60"></a>
 </div>
 
 ## 🔗 Connect With Me
 <div id = "badges" align = "center">
-  <a href = "https://www.linkedin.com/in/rishi-upadhyay-a4417a250/">
+  <a href = "https://www.linkedin.com/in/rishika-gupta-051343273/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
-  <a href = "rupadhyay2674@gmail.com">
+  <a href = "rishikagupta312004@gmail.com">
   <img src = "https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge">
-    </a>
-  <a href = "https://www.instagram.com/rishii_2674/">
-  <img src = "https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">
     </a>
 </div>
 
@@ -37,7 +34,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi2674&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-*Rishi2674/Rishi2674* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*rishika-g31/rishika-g31* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
