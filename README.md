@@ -27,11 +27,11 @@
 
 
 ## 🖥️ Github Profile Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Rishi2674&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2674&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rishika-g31&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-g31&langs_count=5&theme=tokyonight)]()
 
 ## 📊 Recent Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi2674&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishika-g31&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 *rishika-g31/rishika-g31* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
