@@ -18,10 +18,10 @@
 ## 🔗 Connect With Me
 <div id = "badges" align = "center">
   <a href = "https://www.linkedin.com/in/rishika-gupta-051343273/">
-  <img src = "https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209">
+  <img src =  "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
   <a href = "rishikagupta312004@gmail.com">
-  <img src = "https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209">
+  <img src =  "https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge">
     </a>
 </div>
 
